@@ -1,4 +1,4 @@
-id,predicted_daily_orders_p10,predicted_daily_orders_p50,predicted_daily_orders_p90
+id,predicted_daily_orders_p1,predicted_daily_orders_p50,predicted_daily_orders_p90
 PVZ_TE_000001,25.0,48.0,220.0
 PVZ_TE_000002,25.0,48.0,220.0
 PVZ_TE_000003,25.0,48.0,220.0
